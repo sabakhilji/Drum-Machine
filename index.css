@@ -1,0 +1,25 @@
+.container{
+    border:solid black;
+    background-color:lightblue;
+    
+  }
+  
+  
+  .btn{
+      padding: 10px 10px;
+      font-size: 20px;
+      width:50%;
+      border:12px solid #555555;
+      margin:0px 5px 10px 5px;
+      position:relative;
+  }
+  .audio{
+    float:center;
+    margin-top:100px ;
+    position:relative;
+      border:solid black;
+    background-color:white;
+    width:200px;
+    height:100px;
+  }
+  
